@@ -1,9 +1,9 @@
 const staticDevCoffee = "dev-coffee-site-v1"
 const assets = [
   "/app.js",
-  "/index.html",
-  "/app.css",
-  "/assets/images/ATech.ico",
+  "/OrlandoMunizz.github.io/index.html",
+  "/OrlandoMunizz.github.io/app.css",
+  "/OrlandoMunizz.github.io/assets/images/ATech.ico",
   
  
 ]
