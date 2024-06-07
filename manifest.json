@@ -1,7 +1,7 @@
 {
-    "name": "ATech PWA",
+    "name": "Web App",
     "short_name": "ATech",
-    "start_url": "/index.html",
+    "start_url": "/OrlandoMunizz.github.io/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#6200ee",
